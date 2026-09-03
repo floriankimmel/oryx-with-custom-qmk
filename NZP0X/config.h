@@ -1,4 +1,5 @@
 #define FLOW_TAP_TERM 100
+#define CHORDAL_HOLD
 #undef DEBOUNCE
 #define DEBOUNCE 10
 
@@ -9,7 +10,7 @@
 
 #define USB_SUSPEND_WAKEUP_DELAY 0
 #define CAPS_LOCK_STATUS
-#define SERIAL_NUMBER "NZP0X/nlyxPW"
+#define SERIAL_NUMBER "NZP0X/rbQEA7"
 #define LAYER_STATE_8BIT
 #define COMBO_COUNT 1
 
